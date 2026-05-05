@@ -1,0 +1,6 @@
+Faker>=25.0
+PyMySQL>=1.1
+chinese-calendar>=1.10
+numpy>=1.26
+tqdm>=4.66
+python-dateutil>=2.9
